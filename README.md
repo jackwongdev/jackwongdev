@@ -4,3 +4,4 @@ I am a senior full-stack developer with over 10 years of experience. I have an e
 
 
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackwongdev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackwongdev)](https://github.com/anuraghazra/github-readme-stats)
